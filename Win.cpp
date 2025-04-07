@@ -74,8 +74,8 @@ void Win::calc()
         if (!str.isEmpty())
         {
             QMessageBox msgBox(QMessageBox::Information,
-                                ("Squaring."), ("Invalid value entered."),
-                                QMessageBox::Ok);
+                               ("Squaring."), ("Invalid value entered."),
+                               QMessageBox::Ok);
             msgBox.exec();
         }
 }
