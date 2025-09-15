@@ -1,2 +1,2 @@
-# LabWidgets
-Lab with widgets
+# LabWidget
+Приложение «Возведение числа в квадрат». Создание новых слотов.
